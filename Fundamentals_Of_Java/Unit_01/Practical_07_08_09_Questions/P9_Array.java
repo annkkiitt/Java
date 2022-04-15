@@ -8,10 +8,9 @@ import java.util.Scanner;
 		obj.leftRotationInAnArray(array); 
 		obj.removeElementInArray(array);//(Optional)
  */
-
+ 
 public class P9_Array {
-
-	public static void main(String[] args) {
+ 	public static void main(String[] args) {
 		int[] array = { 1, 2, 3, 4, 5, 4, 6, 2, 3 };
 
 		QuestionsOnArray obj = new QuestionsOnArray();
