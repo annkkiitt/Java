@@ -1,4 +1,4 @@
-package Fundamentals_Of_Java.Unit_01.Practical_06;
+package Unit_01.Practical_06;
 
 /*
  * Normally an array is a collection of similar type of elements which has contiguous memory location

@@ -1,4 +1,4 @@
-package Fundamentals_Of_Java.Unit_01.Practical_06;
+package Unit_01.Practical_06;
 
 /*
  * 3ways:

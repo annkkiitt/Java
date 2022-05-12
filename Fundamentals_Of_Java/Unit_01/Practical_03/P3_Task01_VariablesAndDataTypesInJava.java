@@ -1,4 +1,4 @@
-package Fundamentals_Of_Java.Unit_01.Practical_03;
+package Unit_01.Practical_03;
 
 /**
  * P3_Task01_VariablesAndDataTypesInJava

@@ -1,4 +1,4 @@
-package Fundamentals_Of_Java.Unit_01.Practical_05;
+package Unit_01.Practical_05;
 
 public class P5_Task01_ClassAndObjectInJava {
 

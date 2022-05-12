@@ -10,7 +10,7 @@
  *
  *static :=> can be accessed without making of an object of that class , more about this in further programs.
 */
-package Fundamentals_Of_Java.Unit_01.Practical_02;
+package Unit_01.Practical_02;
 
 public class P2_Task02_ConstantsInJava {
 	

@@ -1,4 +1,4 @@
-package Fundamentals_Of_Java.Unit_01.Practical_07_08_09_Questions;
+package Unit_01.Practical_07_08_09_Questions;
 import java.util.Scanner;
 
 /* Problem Statement: P7_SwitchStatements: 

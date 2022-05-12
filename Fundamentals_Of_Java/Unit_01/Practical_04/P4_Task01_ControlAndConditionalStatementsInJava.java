@@ -1,4 +1,4 @@
-package Fundamentals_Of_Java.Unit_01.Practical_04;
+package Unit_01.Practical_04;
 
 /*
  * Java provides three types of control flow statements.

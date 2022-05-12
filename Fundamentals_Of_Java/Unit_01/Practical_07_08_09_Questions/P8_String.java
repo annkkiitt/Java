@@ -1,4 +1,4 @@
-package Fundamentals_Of_Java.Unit_01.Practical_07_08_09_Questions;
+package Unit_01.Practical_07_08_09_Questions;
 
 /* Problem Statement:
 P8_String: 

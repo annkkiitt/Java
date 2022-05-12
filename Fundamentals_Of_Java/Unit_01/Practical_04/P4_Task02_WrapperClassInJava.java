@@ -1,4 +1,4 @@
-package Fundamentals_Of_Java.Unit_01.Practical_04;
+package Unit_01.Practical_04;
 /*
  * The wrapper class in java provides the mechanism to convert primitive into object and obj
  * Why?

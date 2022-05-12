@@ -1,4 +1,4 @@
-package Fundamentals_Of_Java.Unit_01.Practical_06;
+package Unit_01.Practical_06;
 
 public class P6_Task02_StringsInJava {
 	public static void main(String[] args) {

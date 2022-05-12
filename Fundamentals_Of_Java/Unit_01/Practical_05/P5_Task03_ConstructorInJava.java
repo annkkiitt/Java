@@ -1,4 +1,4 @@
-package Fundamentals_Of_Java.Unit_01.Practical_05;
+package Unit_01.Practical_05;
 /*
 - It is called when an instance of the class is created
 - At the time of calling the constructor, memory for the object is allocated in the memory

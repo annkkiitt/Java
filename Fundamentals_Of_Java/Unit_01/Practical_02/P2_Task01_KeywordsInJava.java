@@ -18,7 +18,7 @@ keywords in java:
 */
 
 
-package Fundamentals_Of_Java.Unit_01.Practical_02;
+package Unit_01.Practical_02;
 
 public class P2_Task01_KeywordsInJava {
     public static void main(String[] args) {

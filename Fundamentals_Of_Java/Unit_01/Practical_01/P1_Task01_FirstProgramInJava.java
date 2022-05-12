@@ -1,4 +1,4 @@
-package Fundamentals_Of_Java.Unit_01.Practical_01;
+package Unit_01.Practical_01;
 
 /**
  * P1_Task01_FirstProgramInJava
