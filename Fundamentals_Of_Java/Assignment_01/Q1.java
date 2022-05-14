@@ -2,9 +2,7 @@ package Assignment_01;
 import java.util.Scanner;
 
 public class Q1{
-
-	public static void main(String[] args) {
-		
+	public static void main(String[] args) {		
 		String name;
 		int age;
 		float percentage;
@@ -14,7 +12,6 @@ public class Q1{
 		Student arr[] = new Student[4];
 		
 		for(int i=0 ; i<4 ; i++) {
-			
 			System.out.println("Enter the details of "+(i+1)+" student :\n");
 			
 			System.out.print("Enter the name       : ");
